@@ -1,0 +1,32 @@
+#bigBox {
+  width: 600px;
+  height: 600px;
+  border: 2px double;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background: red;
+}
+
+.box {
+  width: 197px;
+  height: 197px;
+  background-color: aqua;
+  border: 1px solid;
+  color: black;
+  margin: auto;
+  text-align: center;
+}
+
+table {
+  border: 1px solid;
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
